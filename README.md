@@ -1,2 +1,2 @@
 # React_Dashboard
-This is the my first website I created using React!
+This is the a dashborad type website I created using React!
